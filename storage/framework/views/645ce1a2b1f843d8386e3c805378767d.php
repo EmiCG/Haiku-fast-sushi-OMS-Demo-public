@@ -1,0 +1,1 @@
+components.app-layout<?php /**PATH C:\xampp\htdocs\laravel\test1\storage\framework\views/67071ae941ead67d4346cc9aa1fbe542.blade.php ENDPATH**/ ?>
