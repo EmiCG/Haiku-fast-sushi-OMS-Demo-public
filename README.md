@@ -88,7 +88,7 @@ Es importante entender que este repositorio **no contiene subcarpetas para cada 
     ├── pubspec.lock
     ├── analysis_options.yaml
     ├── README.md
-    └── (y cualquier otro archivo/directorio propio de tu aplicación Flutter)
+    └── etc...
     ```
 
 ## 🚀 Cómo Navegar y Trabajar con los Proyectos
