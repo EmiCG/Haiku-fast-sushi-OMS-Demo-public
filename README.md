@@ -170,7 +170,7 @@ flutter run
 
 #### Dashboard
 
-![alt text](src\admin_dashboard.png)
+![alt text](https://github.com/EmiCG/Haiku-fast-sushi-OMS-Demo-public/blob/main/src/admin_dashboard.png?raw=true)
 
 #### Pedidos
 
