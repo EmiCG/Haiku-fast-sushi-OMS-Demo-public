@@ -174,22 +174,22 @@ flutter run
 
 #### Pedidos
 
-![alt text](src\admin_pedidos.png)
+![alt text](https://github.com/EmiCG/Haiku-fast-sushi-OMS-Demo-public/blob/main/src/admin_pedidos.png?raw=true)
 
 #### Editar producto
 
-![alt text](src\admin_producto_editar.png)
+![alt text](https://github.com/EmiCG/Haiku-fast-sushi-OMS-Demo-public/blob/main/src/admin_producto_editar.png?raw=true)
 
 #### Productos
 
-![alt text](src\admin_productos.png)
+![alt text](https://github.com/EmiCG/Haiku-fast-sushi-OMS-Demo-public/blob/main/src/admin_productos.png?raw=true)
 
 ### Vistas de clientes
 
 #### Carrito de compras
 
-![alt text](src\menu_carrito.png)
+![alt text](https://github.com/EmiCG/Haiku-fast-sushi-OMS-Demo-public/blob/main/src/menu_carrito.png?raw=true)
 
 #### Menu de compras
 
-![alt text](src\menu_mobile.png)
+![alt text](https://github.com/EmiCG/Haiku-fast-sushi-OMS-Demo-public/blob/main/src/menu_mobile.png?raw=true)
